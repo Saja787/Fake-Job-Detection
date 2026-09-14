@@ -273,6 +273,9 @@ The final Stacking model was saved using **Joblib** and integrated into the Stre
 #  Deployment
 
 The trained model was deployed using **Streamlit**.
+Live Demo:
+
+https://fake-job-detector-bgkwdduaa86fvablkapgh7.streamlit.app/
 
 The deployment folder contains:
 
